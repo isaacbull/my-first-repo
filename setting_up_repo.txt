@@ -1,0 +1,16 @@
+  652  ls
+  653  cd gitfiles
+  654  ls
+  655  cd ..
+  656  ls
+  657  cp healthcareapp2 gitfiles
+  658  cp -R healthcareapp2 gitfiles
+  659  ls
+  660  cd gitfiles
+  661  ls
+  662  cd my-first-repo
+  663  git remote -v
+  664  cd ..
+  665  cd healthcareapp2
+  666  git remote add origin https://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@github.com/isaacbull/my-first-repo.git
+  667  git remote -v
